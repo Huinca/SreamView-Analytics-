@@ -19,7 +19,6 @@ Este repositorio contiene la solución integral de Visualización de Datos para 
 4. **Presentación Ejecutiva** (`docs/Streamview_Analytics.pptx`)
 
 ## Autores
-- Octavio Chávez
 - David Ramírez
 - Felipe Huincaman
 
