@@ -14,13 +14,12 @@ Este repositorio contiene la solución integral de Visualización de Datos para 
 
 ## Entregables Principales
 1. **Informe Técnico Ejecutivo** (`docs/Informe_Tecnico_Chavez_Huincaman_Ramirez.docx`)
-2. **Dashboard Interactivo** (`dashboard/Streamview_Analytics.pbix`)
-3. **Infografía de Hallazgo Estratégico** (`images/Infografia_Desplome_Rating.png`)
-4. **Presentación Ejecutiva** (`docs/Streamview_Analytics.pptx`)
+2. **Dashboard Interactivo Optimizado** (`dashboard/Streamview_Analytics.pbix`)
+3. **Presentación Ejecutiva** (`docs/Streamview_Analytics.pptx`)
 
 ## Autores
 - David Ramírez
 - Felipe Huincaman
 
 **Asignatura:** Visualización de Datos  
-**Fecha:** Octubre 2026
+**Fecha:** Noviembre 2026
